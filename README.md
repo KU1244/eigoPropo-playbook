@@ -5,7 +5,8 @@ Focus: the first 3 lines (mobile preview), proof snippets, and delivery wording.
 
 ## 10-second demo 🎥
 
-[![10-second demo](https://img.youtube.com/vi/ZDf7LYLG9n4/hqdefault.jpg)](https://www.youtube.com/watch?v=ZDf7LYLG9n4)
+[![10-second demo](https://img.youtube.com/vi/_QW8OJlrqnw/maxresdefault.jpg)](https://www.youtube.com/watch?v=_QW8OJlrqnw)
+
 
 
 👉 **Login → Profile setup → Paste job post → Generate proposal**
