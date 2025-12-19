@@ -9,7 +9,8 @@ EigoPropo generates **short, client-ready English proposals** using your profile
 ✅ No rewriting. No prompt engineering.
 
 ## 10-second demo 🎥
-[![10-second demo](https://img.youtube.com/vi/ZDf7LYLG9n4/hqdefault.jpg)](https://www.youtube.com/watch?v=ZDf7LYLG9n4)
+[![10-second demo](https://img.youtube.com/vi/_QW8OJlrqnw/maxresdefault.jpg)](https://www.youtube.com/watch?v=_QW8OJlrqnw)
+
 
 👉 **Login → Profile setup → Paste job post → Generate proposal**
 
